@@ -1,4 +1,3 @@
-
 # AllPlay 🎬
 
 **AllPlay** es una aplicación web para la gestión dinámica de películas. Permite a los usuarios explorar, agregar y consultar películas en tiempo real. Desarrollado con **Node.js**, **Express** y **MongoDB** en el backend y un frontend interactivo que mejora la experiencia del usuario.
